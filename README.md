@@ -1,6 +1,6 @@
 # startup
 
-https://kthibodeaux-shapeup.netlify.app/
+https://kthibodeaux-shapeupstep2.netlify.app/
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e8b4aeb6-5663-41af-bea2-4cc0f779208b/deploy-status)](https://app.netlify.com/sites/kthibodeaux-starup/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cfcdc9d4-f080-42d3-a48d-bf785f9710c2/deploy-status)](https://app.netlify.com/sites/kthibodeaux-shapeupstep2/deploys)
