@@ -1,0 +1,83 @@
+body{
+    font-family: Arial, Helvetica,sans-serif;
+    font-size:100%;
+}
+
+/* header tags */
+header img{
+    float:left;
+    margin: 0px 20px;
+}
+
+header h2{
+    font-size: 250%;
+    color: steelblue;
+    text-shadow: 4px 4px 4px steelblue;
+    font-style: italic;
+
+    
+}
+
+header h3{
+    font-size: 150%;
+    
+}
+
+/*heading tags*/
+h1{
+    font-size: 150%;
+}
+
+section h2, aside h2{
+    font-size: 130%;
+}
+
+section h3{
+    font-size: 125%;
+}
+
+
+
+/* section links */
+section a:link {
+    color: maroon;
+}
+section a:visited {
+    color:maroon;
+}
+section a:hover {
+    color:steelblue;
+}
+section a:active {
+    color: steelblue;
+}
+
+
+aside a{
+    font-weight: bold;
+}
+
+/*aside links*/
+aside a:link {
+    color: steelblue;
+}
+aside a:visited {
+    color:steelblue;
+}
+aside a:hover {
+    color:maroon;
+}
+aside a:active {
+    color: maroon;
+} 
+
+/*footer tags*/
+footer{
+    text-align: center;
+    font-size: 80%;
+}
+
+/*unordered list*/
+li{
+    margin-top: 7px;
+}
